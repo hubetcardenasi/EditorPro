@@ -1,5 +1,5 @@
 # EditorPro
 Editor de imágenes profesional diseñado para entorno web.
 
-## Proyectos
+## Proyecto
 :link:[hubetcardenasi.github.io/EditorPro/](https://hubetcardenasi.github.io/EditorPro/)
